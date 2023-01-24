@@ -6,6 +6,7 @@ import FeaturedProperties from '../../components/featuredProperties/FeaturedProp
 import MailList from '../../components/mailList/MailList';
 import Footer from '../../components/footer/Footer';
 import "./home.css";
+import React from 'react';
 
 const Home = () => {
     return (

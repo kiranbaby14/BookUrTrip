@@ -1,7 +1,8 @@
 import "./footer.css";
+import React from 'react';
 
 const Footer = () => {
-  return  (
+  return (
     <div className="footer">
       <div className="fLists">
         <ul className="fList">
@@ -44,9 +45,9 @@ const Footer = () => {
           <li className="fListItem">Terms & conditions</li>
         </ul>
       </div>
-      <div className="fText">Copyright © 2022 Lamabooking.</div>
+      <div className="fText">Copyright © 2023 kb14.</div>
     </div>
   );
-}
+};
 
-export default Footer
+export default Footer;
